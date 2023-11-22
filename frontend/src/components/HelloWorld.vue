@@ -27,7 +27,17 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
-  </div>
+    <!-- Redirection vers LoginForm.vue et RegisterForm.vue pour s'enregistrer et se connecter -->
+    <h3>LoginForm</h3>
+    <ul>
+      <li><a href="http://localhost:8080/#/login" target="_blank" rel="noopener">LoginForm</a></li>
+    </ul>
+    <h3>RegisterForm</h3>
+    <ul>
+      <li><a href="http://localhost:8080/#/register" target="_blank" rel="noopener">RegisterForm</a></li>
+    </ul>
+
+</div>
 </template>
 
 <script>
