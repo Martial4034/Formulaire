@@ -1,3 +1,9 @@
+<!-- 
+  AUTEUR : Martial Laubier;
+  TITRE : Formulaire;
+  Date de fin de Projet : 11/11/2023;
+  Git : https://gitlab.com/Martial4034
+ -->
 <template>
   <div id="app">
     <router-view/>
