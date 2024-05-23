@@ -4,6 +4,8 @@
 ## [English Version of the EN-README.ME](https://github.com/Martial4034/formulaire/blob/main/EN-ReadMe.md)
 
 ### Ceci était un exercice scolaire (DM)
+Homework for the BTS SIO. We had to build a web app able to create multiple FORMS, with a CRUD ( create, read, update, and delete ). 
+**I had the grade : 78/20**
 
 Un Formulaire qui à été réalisé en une soirée seulement, l'idée était de me mettre un veritable défis pour pouvoir me tester. Il utilise la nouvelle version de VueJS que j'ai du apprendre sur le tas pour plus d'amusement, et pour le Backend par contre une technologie avec laquelle je suis à l'aise Node.js et express. Malheureusement ce défis à été raté, j'ai sous éstimé le changement entre Vue2, et Vue3 de plus convertir le pdf m'a pris plus de temps que prévu, et tout remettre en forme fut un peu long j'aurais du codé plus proprement sans erreur et plus rapidement.
 ![GPLv3 License](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs) ![GPLv3 License](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
