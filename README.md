@@ -21,6 +21,8 @@ Un Formulaire qui à été réalisé en une soirée seulement, l'idée était de
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)| ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)|![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) |
 
+![Preview](https://i.imgur.com/fqFzO1m.png)
+
 # Frontend
 ```
 Assurez d'avoir Node.js => https://nodejs.org/dist/v20.10.0/node-v20.10.0-x64.msi
